@@ -6,10 +6,14 @@ The Open Source Initiative provides a windown for Polygonal Mind to share some o
 
 ### 230410.1
 
+[https://sketchfab.com/models/5786065b96f442008915e2d10fc2276c/embed](https://sketchfab.com/models/5786065b96f442008915e2d10fc2276c/embed)
+
 <aside>
 🔽 2302 - Chromatic Chaos VHS Asset Pack
 
-https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230410.1
+[https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230410.1](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230410.1)
+
+</aside>
 
 ### 230331.1
 
