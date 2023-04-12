@@ -4,6 +4,22 @@ The Open Source Initiative provides a windown for Polygonal Mind to share some o
 
 # Releases
 
+### 230410.2
+
+<aside>
+🔽 2103 - 100 Avatars R2 Character Pack
+  
+![ROUND2_Image_1200x630 (1)](https://user-images.githubusercontent.com/89629540/231416171-509973b7-a0f8-4221-a651-c67fc75579a0.jpg)
+https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.2
+
+### 230410.1
+
+<aside>
+🔽 2003 - 100 Avatars R1 Character Pack
+  
+![ROUND1_Image_1200x630 (1)](https://user-images.githubusercontent.com/89629540/231416299-eb129864-3179-4c03-a2b1-5a203544b9d2.jpg)
+https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.1
+
 ### 230410.1
 
 <aside>
