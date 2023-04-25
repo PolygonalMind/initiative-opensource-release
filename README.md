@@ -10,8 +10,8 @@ Our team is eager to share our work with you and we sincerely hope that you find
 
 <aside>
 🔽 2210 - MOMUS Park Asset Pack
-  
-![ROUND2_Image_1200x630 (1)](https://user-images.githubusercontent.com/89629540/232803696-fbd718ac-30a4-4d30-9708-190f119fafde.jpg)
+
+![MOMUS_Image_1200x630 (1)](https://user-images.githubusercontent.com/89629540/234262351-9bbf0afe-25e2-4ec9-96d2-127c27709457.jpg)
 https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230418.1
 ### 230412.5
 
