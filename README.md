@@ -104,6 +104,10 @@ This asset pack contains more than 35 game-ready assets.
 </a>
 <br>
 
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
+<br>
+[Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230410.1) 
+
 <a id="momus-park"></a>                       
 ## MOMUS Park Asset Pack
 
