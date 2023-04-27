@@ -4,7 +4,7 @@
 
 Polygonal Mind can now share some of its internal projects with the public, thanks to the Open Source Initiative's support. This projects falls under the license **CC0**, which means that you are free to use, modify, and distribute our work without any restrictions, even for commercial purposes, and without having to attribute the original creator. In other words, **CC0** is a legal tool for creators who want to make their work available to the public with the fewest restrictions possible.
 
-Our team is eager to share our work with you and we sincerely hope that you find it beneficial.
+Our team is eager to share our work with you and we sincerely hope that you find it beneficial. <br>
 [You can find more information about the CC0 license here.](https://creativecommons.org/share-your-work/public-domain/cc0/)
 # Table of Contents
 
@@ -99,26 +99,50 @@ This asset pack contains more than 35 game-ready assets.
 <a id="chromatic-chaos"></a>       
 ## Chromatic Chaos VHS Asset Pack
   
-![ChromaticChaosVHSSketchfabrender](https://user-images.githubusercontent.com/54625427/231223229-abecc144-37cf-4377-8c9a-d2b9ff7b81bf.png)
-[https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230410.1](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230410.1)
+<a href="Chromatic Chaos VHS Asset Pack" title="Chromatic Chaos VHS">
+        <img align="right" width="50%" src="images/ChromaticChaos_Cover.jpg"> 
+</a>
+<br>
 
 <a id="momus-park"></a>                       
 ## MOMUS Park Asset Pack
 
-![MOMUS_Image_1200x630 (1)](https://user-images.githubusercontent.com/89629540/234262351-9bbf0afe-25e2-4ec9-96d2-127c27709457.jpg)
-https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230418.1
+<a href="MOMUS Pack Asset Pack" title="MOMUS Pack">
+        <img align="right" width="50%" src="images/MomusPark_Cover.jpg"> 
+</a>
+<br>
 
 <a id="tomb-chaser-1"></a>                  
 ## Tomb Chaser 1
 
+<a href="Tomb Chaser 1 Asset Pack" title="Tomb Chaser 1">
+        <img align="right" width="50%" src="images/TombChaser1_Cover.jpg"> 
+</a>
+<br>
+
 <a id="tomb-chaser-2"></a>
 ## Tomb Chaser 2
+
+<a href="Tomb Chaser 2 Asset Pack" title="Tomb Chaser 2">
+        <img align="right" width="50%" src="images/TombChaser2_Cover.jpg"> 
+</a>
+<br>
 
 <a id="avatar-garden"></a>
 ## Avatar Garden
 
+<a href="Avatar Garden Asset Pack" title="Avatar Garden">
+        <img align="right" width="50%" src="images/AvatarGarden_Cover.jpg"> 
+</a>
+<br>
+
 <a id="avatar-show"></a>
 ## The Avatar Show
+
+<a href="The Avatar Show Asset Pack" title="The Avatar Show">
+        <img align="right" width="50%" src="images/TheAvatarShow_Cover.jpg"> 
+</a>
+<br>
 
 <a id="the-sandbox"></a>  
 # The Sandbox Packs
@@ -126,20 +150,32 @@ https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/2304
 <a id="tsb_megapack"></a>                      
 ## TSB Megapack     
 
+<a href="TSB MegaPack" title="TSB MegaPack">
+        <img align="right" width="50%" src="images/TSBMegapack_Cover.jpg"> 
+</a>
+<br>
+
 <a id="babylon"></a>  
 ## Babylon Asset Pack
 
-![ROUND2_Image_1200x630 (1)](https://user-images.githubusercontent.com/89629540/231502392-3f704797-b6d3-4ea9-bac5-5b8f3757b2c9.jpg)
-https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.4                 
-                      
+<a href="Babylon Asset Pack" title="Medieval Fair">
+        <img align="right" width="50%" src="images/Babylon_Cover.jpg"> 
+</a>
+<br>
+
 <a id="dethrone"></a> 
 ## Dethrone Asset Pack
 
-![ROUND2_Image_1200x630 (1)](https://user-images.githubusercontent.com/89629540/231496487-3b8a76c2-4402-4084-8e86-98b90d9ed790.jpg)
-https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.3
+<a href="Dethrone Asset Pack" title="Dethrone">
+        <img align="right" width="50%" src="images/Dethrone_Cover.jpg"> 
+</a>
+<br>
 
 <a id="underworld"></a>
 ## Underworld Asset Pack
 
-![ROUND2_Image_1200x630 (1)](https://user-images.githubusercontent.com/89629540/231503703-a2cfe1ab-1911-4399-aae6-5031e99dcb3d.jpg)
-https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.5
+<a href="Underworld Asset Pack" title="Underworld">
+        <img align="right" width="50%" src="images/Underworld_Cover.jpg"> 
+</a>
+<br>
+
