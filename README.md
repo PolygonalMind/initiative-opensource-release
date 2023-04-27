@@ -53,7 +53,7 @@ The avatars adhere to the following themes:
 
 [Link to the original Round 1](https://www.100avatars.com/es/round-1)
 <br>
-[Check the diorama at Skethfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
 <br>
 [Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.1) 
 
@@ -112,6 +112,10 @@ This asset pack contains more than 35 game-ready assets.
 </a>
 <br>
 
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
+<br>
+[Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230418.1) 
+
 <a id="tomb-chaser-1"></a>                  
 ## Tomb Chaser 1
 
@@ -119,6 +123,11 @@ This asset pack contains more than 35 game-ready assets.
         <img align="right" width="50%" src="images/TombChaser1_Cover.jpg"> 
 </a>
 <br>
+
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
+<br>
+[Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230425.1) 
+
 
 <a id="tomb-chaser-2"></a>
 ## Tomb Chaser 2
@@ -128,6 +137,11 @@ This asset pack contains more than 35 game-ready assets.
 </a>
 <br>
 
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
+<br>
+[Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230425.2) 
+
+
 <a id="avatar-garden"></a>
 ## Avatar Garden
 
@@ -136,6 +150,10 @@ This asset pack contains more than 35 game-ready assets.
 </a>
 <br>
 
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
+<br>
+[Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230426.1) 
+
 <a id="avatar-show"></a>
 ## The Avatar Show
 
@@ -143,6 +161,10 @@ This asset pack contains more than 35 game-ready assets.
         <img align="right" width="50%" src="images/TheAvatarShow_Cover.jpg"> 
 </a>
 <br>
+
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
+<br>
+[Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230426.2) 
 
 <a id="the-sandbox"></a>  
 # The Sandbox Packs
@@ -155,6 +177,8 @@ This asset pack contains more than 35 game-ready assets.
 </a>
 <br>
 
+[Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230425.3)
+
 <a id="babylon"></a>  
 ## Babylon Asset Pack
 
@@ -162,6 +186,8 @@ This asset pack contains more than 35 game-ready assets.
         <img align="right" width="50%" src="images/Babylon_Cover.jpg"> 
 </a>
 <br>
+
+[Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.4) 
 
 <a id="dethrone"></a> 
 ## Dethrone Asset Pack
@@ -171,6 +197,8 @@ This asset pack contains more than 35 game-ready assets.
 </a>
 <br>
 
+[Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.3) 
+
 <a id="underworld"></a>
 ## Underworld Asset Pack
 
@@ -178,4 +206,7 @@ This asset pack contains more than 35 game-ready assets.
         <img align="right" width="50%" src="images/Underworld_Cover.jpg"> 
 </a>
 <br>
+
+[Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.5) 
+
 
