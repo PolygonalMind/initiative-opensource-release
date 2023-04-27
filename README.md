@@ -26,8 +26,6 @@ Our team is eager to share our work with you and we sincerely hope that you find
     * [Dethrone](#dethrone)
     * [Underworld](#underworld)
 
-
-
 # Releases
 
 <a id="character"></a>
@@ -36,27 +34,67 @@ Our team is eager to share our work with you and we sincerely hope that you find
 <a id="100-avatars-r1"></a>
 ## 100 Avatars R1 Character Pack
 
-<a href="ALFA_Driver_DVD_old" title="Click to browse ALFA_Driver_DVD_old files">
-        <img align="left" width="50%" src="images/100AvatarsR1_Cover.jpg"> 
+<a href="100 Avatars R1" title="100 Avatars R1">
+        <img align="right" width="50%" src="images/100AvatarsR1_Cover.jpg"> 
 </a>
-  
-![ROUND1_Image_1200x630 (1)](https://user-images.githubusercontent.com/89629540/231416299-eb129864-3179-4c03-a2b1-5a203544b9d2.jpg)
-https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.1
+<br>
+Created during 2018, the 100 Avatars R1 Character Pack contains the first batch of avatars developed as a 1-avatar-per-day series. They are available as .fbx, .vrm, and .vxr, making them ready to use on almost every context and engine. Some of the most well-known avatars can be found here including the one and only Cool Banana.
+<br>
+With an easy to modify topology, they can be imported into any 3D editing software and freely modified.
+<br>
+The avatars adhere to the following themes: 
+
+- Aliens 
+- Monsters
+- Adventurers
+- Christmas 
+- Food items 
+<br>
+
+[Link to the original Round 1](https://www.100avatars.com/es/round-1)
+<br>
+[Check the diorama at Skethfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
+<br>
+[Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.1) 
 
 <a id="100-avatars-r2"></a>
 ## 100 Avatars R2 Character Pack
-  
-![ROUND2_Image_1200x630 (1)](https://user-images.githubusercontent.com/89629540/231416171-509973b7-a0f8-4221-a651-c67fc75579a0.jpg)
-https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.2
  
+<a href="100 Avatars R2" title="100 Avatars R2">
+        <img align="right" width="50%" src="images/100AvatarsR2_Cover.jpg"> 
+</a>
+<br>
+Created during 2020, the 100 Avatars R2 Character Pack contains the second batch of avatars developed as a 1-avatar-per-day series. They are available as .fbx, .vrm, and .vxr, making them ready to use on almost every context and engine. This second round expands on every theme presented on the first one, focusing on many more Cool-series models. 
+<br>
+With an easy to modify topology, they can be imported into any 3D editing software and freely modified.
+<br>
+This package includes the avatar version of our company logo, the Poligonati.
+<br> <br>
+
+[Link to the original Round 2](https://www.100avatars.com/es/round-2)
+<br>
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r2-cc0-character-pack-80cb24ac52cb4e839930aaa12314f716)
+<br>
+[Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.1) 
+
 <a id="asset-packs"></a>                      
 # Asset Packs
 
 <a id="medieval-fair"></a>
 ## Medieval Fair Asset Pack
 
-  ![medievalfairSketchfabrender](https://user-images.githubusercontent.com/54625427/231223863-ee2e059a-c14f-4248-98af-8eb83d1208e7.png)
-[https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1)
+<a href="Medieval Fair Asset Pack" title="Medieval Fair">
+        <img align="right" width="50%" src="images/MedievalFair_Cover.png"> 
+</a>
+<br>
+Created during a short interval of time before Oktoberfest (the german fest), this celebration was Medieval Fair's original purpose. It has now been modified and adapted, and can serve as the perfect building blocks for any kind of medieval festival.
+<br>
+This asset pack contains more than 35 game-ready assets.
+<br> <br>
+
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/medieval-fun-fair-cc0-asset-pack-d46e293701f1467a961b3eddfa0792db)
+<br>
+[Check the complete release notes in here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1)
 
 <a id="chromatic-chaos"></a>       
 ## Chromatic Chaos VHS Asset Pack
