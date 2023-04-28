@@ -54,7 +54,7 @@ Our team is eager to share our work with you and we sincerely hope that you find
 <a href="100 Avatars R1" title="100 Avatars R1">
         <img align="right" width="50%" src="images/100AvatarsR1_Cover.jpg"> 
 </a>
-<br>
+
 Created during 2018, the 100 Avatars R1 Character Pack contains the first batch of avatars developed as a 1-avatar-per-day series. They are available as .fbx, .vrm, and .vxr, making them ready to use on almost every context and engine. Some of the most well-known avatars can be found here including the one and only Cool Banana.
 <br>
 With an easy to modify topology, they can be imported into any 3D editing software and freely modified.
