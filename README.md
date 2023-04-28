@@ -1,10 +1,21 @@
 # Who are we?
 
 <a href="Polygonal Mind" title="Polygonal Mind">
-        <img align="left" width="30%" src="images/PolygonalMind_Logo.png"> 
+        <img align="left" width="50%" src="images/PolygonalMind_Logo.png"> 
 </a>
 
- The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Zaragoza based, 2018 estd.
+<br>
+We are a Creative Development Studio that imagines, designs and develops stunning environments, avatars, wearables, games and experiences for the metaverse.  
+We strongly believe in building new virtual realities framed in the Metaverse so that humankind can share, experiment and evolve together.
+<br>
+Take a look at [our website](https://www.polygonalmind.com/) to see what we are up to. 
+<br>
+You can also find us on [Twitter](https://twitter.com/polygonalmind?), [Instagram](https://www.instagram.com/polygonalmind/), and [Tik-Tok](https://www.tiktok.com/@polygonalmind).
+<br>
+Join our [Discord](https://discord.com/invite/jVEZYy4) server to stay on the loop.
+<br>
+Read our [blog](https://www.polygonalmind.com/blog) to learn more about our developments.
 
 # The Opensource Initiative
 
