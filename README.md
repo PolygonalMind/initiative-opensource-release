@@ -163,7 +163,7 @@ Fun fact, it is the models we use for testing Polygonal Mind applicants.
 <a href="Tomb Chaser 1 Asset Pack" title="Tomb Chaser 1">
         <img align="right" width="50%" src="images/TombChaser1_Cover.jpg"> 
 </a>
-<br>
+
 The first ever platform game created for Decentraland! Developed during 2020, Tomb Chaser 1 follows the adventures of an tomb explorer, who encounters a ghost and has to solve a maze. Taking inspiration from Egypt, this first installment of the franchise has the user run inside of a pyramid full of spiky traps and astonishing brick textures and patterns.
 
 If you are in need of sand, rocks, and ancient egyptian gods, this package is made for you.
