@@ -4,7 +4,7 @@
         <img align="left" width="50%" src="images/PolygonalMind_Logo.png"> 
 </a>
 
-Zaragoza based, 2018 estd.
+Zaragoza based, 2015 estd.
 <br>
 We are a Creative Development Studio that imagines, designs and develops stunning environments, avatars, wearables, games and experiences for the metaverse.  
 <br> <br>
