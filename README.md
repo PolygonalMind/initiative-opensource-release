@@ -1,7 +1,7 @@
 # Who are we?
 
 <a href="Polygonal Mind" title="Polygonal Mind">
-        <img align="left" width="50%" src="images/PolygonalMind_Logo.png"> 
+        <img align="left" width="50%" src="images/PolygonalMind_Logo.jpg"> 
 </a>
 
 Zaragoza based, 2015 estd.
