@@ -36,8 +36,8 @@ Our team is eager to share our work with you and we sincerely hope that you find
     * [Tomb Chaser 2](#tomb-chaser-2)
     * [Tomb Chaser 3 (Coming Soon)](#tomb-chaser-3)
     * [Avatar Garden](#avatar-garden)
-    * [The Avatar Show](avatar-show)
-    * [ABM](abm)
+    * [The Avatar Show](#avatar-show)
+    * [ABM](#abm)
   * [The Sandbox Packs](#the-sandbox)
     * [TSB Megapack](#tsb-megapack)
     * [Babylon](#babylon)
@@ -217,7 +217,7 @@ The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the 
 ## Avatar Garden
 
 <a href="Avatar Garden Asset Pack" title="Avatar Garden">
-        <img align="right" width="50%" src="images/Placeholder_Cover.jpg"> 
+        <img align="right" width="50%" src="images/AvatarGarden_Cover.jpg"> 
 </a>
 
 The VRChat space that houses every avatar we have made so far for the 100 Avatars series. This project embodies the open-source origin and philosophy of the company, and it was at its time the first step towards the creation of CryptoAvatars. Its characteristic artstyle reminisces the characteristic brush strokes of Gauguin.
@@ -239,6 +239,7 @@ The VRChat space that houses every avatar we have made so far for the 100 Avatar
 </a>
 
 Created as a late-night VRChat show, The Avatar Show, hosted by Polygonal Mind, is a virtual space designed around interviews. Specially focused around avatar and virtual reality creators, it is now available for everybody to use.
+It includes decorative elements such as plants and carpets, as well as more functional elements such as seats, desks, and elegant armchairs.
 <br>
 This asset pack contains 50 different elements.
 <br><br>
