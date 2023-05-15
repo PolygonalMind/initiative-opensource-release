@@ -253,8 +253,8 @@ This asset pack contains 50 different elements.
 <a id="abm"></a>
 ## ABM
 
-<a href="The Avatar Show Asset Pack" title="The Avatar Show">
-        <img align="right" width="50%" src="images/TheAvatarShow_Cover.jpg"> 
+<a href="ABM Asset Pack" title="ABM">
+        <img align="right" width="50%" src="images/ABM_Cover.jpg"> 
 </a>
 
 ABM or Aetherian Block Museum is a Museum that contains the story of the creation of Blockchain and Ethereum divided into different stages.  The different points in history are represented via NFTs together with a description of what happened in that moment. 
