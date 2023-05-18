@@ -1,6 +1,6 @@
 # Who are we?
 
-<a href="Polygonal Mind" title="Polygonal Mind">
+<a href="https://www.polygonalmind.com/" title="Polygonal Mind">
         <img align="left" width="50%" src="images/PolygonalMind_Logo.jpg"> 
 </a>
 
