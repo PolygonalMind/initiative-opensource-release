@@ -53,7 +53,7 @@ Our team is eager to share our work with you and we sincerely hope that you find
 <a id="100-avatars-r1"></a>
 ## 100 Avatars R1 Character Pack
 
-<a href="100 Avatars R1" title="100 Avatars R1">
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.1" title="100 Avatars R1">
         <img align="right" width="50%" src="images/100AvatarsR1_Cover.jpg"> 
 </a>
 
@@ -79,7 +79,7 @@ The avatars adhere to the following themes:
 <a id="100-avatars-r2"></a>
 ## 100 Avatars R2 Character Pack
  
-<a href="100 Avatars R2" title="100 Avatars R2">
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.1" title="100 Avatars R2">
         <img align="right" width="50%" src="images/100AvatarsR2_Cover.jpg"> 
 </a>
 
@@ -102,7 +102,7 @@ This package includes the avatar version of our company logo, the Poligonati.
 <a id="medieval-fair"></a>
 ## Medieval Fair Asset Pack
 
-<a href="Medieval Fair Asset Pack" title="Medieval Fair">
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1)" title="Medieval Fair">
         <img align="right" width="50%" src="images/MedievalFair_Cover.jpg"> 
 </a>
 
@@ -122,7 +122,7 @@ This asset pack contains more than 35 game-ready assets.
 <a id="chromatic-chaos"></a>       
 ## Chromatic Chaos VHS Asset Pack
   
-<a href="Chromatic Chaos VHS Asset Pack" title="Chromatic Chaos VHS">
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230410.1" title="Chromatic Chaos VHS">
         <img align="right" width="50%" src="images/ChromaticChaos_Cover.jpg"> 
 </a>
 
@@ -142,7 +142,7 @@ One of the first projects developed during 2023 is a collaboration with MoCA. Af
 <a id="momus-park"></a>                       
 ## MOMUS Park Asset Pack
 
-<a href="MOMUS Pack Asset Pack" title="MOMUS Pack">
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230418.1" title="MOMUS Pack">
         <img align="right" width="50%" src="images/MomusPark_Cover.jpg"> 
 </a>
 
@@ -162,7 +162,7 @@ Fun fact, it is the models we use for testing Polygonal Mind applicants.
 <a id="tomb-chaser-1"></a>                  
 ## Tomb Chaser 1
 
-<a href="Tomb Chaser 1 Asset Pack" title="Tomb Chaser 1">
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230425.1" title="Tomb Chaser 1">
         <img align="right" width="50%" src="images/TombChaser1_Cover.jpg"> 
 </a>
 
@@ -181,7 +181,7 @@ If you are in need of sand, rocks, and ancient egyptian gods, this package is ma
 <a id="tomb-chaser-2"></a>
 ## Tomb Chaser 2
 
-<a href="Tomb Chaser 2 Asset Pack" title="Tomb Chaser 2">
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230425.2" title="Tomb Chaser 2">
         <img align="right" width="50%" src="images/TombChaser2_Cover.jpg"> 
 </a>
 
@@ -210,14 +210,14 @@ The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the 
 <br>
 [Link to the Unity Asset Store]()
 <br>
-[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
+[Check the diorama at Sketchfab]()
 <br>
-[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230425.2) 
+[Read the complete release notes here, and download the pack!]() 
 
 <a id="avatar-garden"></a>
 ## Avatar Garden
 
-<a href="Avatar Garden Asset Pack" title="Avatar Garden">
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230426.1" title="Avatar Garden">
         <img align="right" width="50%" src="images/AvatarGarden_Cover.jpg"> 
 </a>
 
@@ -235,7 +235,7 @@ The VRChat space that houses every avatar we have made so far for the 100 Avatar
 <a id="avatar-show"></a>
 ## The Avatar Show
 
-<a href="The Avatar Show Asset Pack" title="The Avatar Show">
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230426.2" title="The Avatar Show">
         <img align="right" width="50%" src="images/TheAvatarShow_Cover.jpg"> 
 </a>
 
@@ -255,7 +255,7 @@ This asset pack contains 50 different elements.
 <a id="abm"></a>
 ## ABM
 
-<a href="ABM Asset Pack" title="ABM">
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230515" title="ABM">
         <img align="right" width="50%" src="images/ABM_Cover.jpg"> 
 </a>
 
@@ -273,7 +273,7 @@ This asset pack contains 65 different elements.
 <a id="ca-world"></a>
 ## CA World
 
-<a href="https://sketchfab.com/3d-models/ca-world-cc0-asset-pack-7dba1f1b8d414aa79257fc13a123b2c7" title="CA World">
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230518" title="CA World">
         <img align="right" width="50%" src="images/CAWorld_Cover.jpg"> 
 </a>
 
@@ -286,7 +286,7 @@ This asset pack contains 65 different elements.
 <br>
 [Check the diorama at Sketchfab](https://sketchfab.com/3d-models/ca-world-cc0-asset-pack-7dba1f1b8d414aa79257fc13a123b2c7)
 <br>
-[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230515) 
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230518) 
 
 <a id="the-sandbox"></a>  
 # The Sandbox Packs
