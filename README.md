@@ -38,6 +38,7 @@ Our team is eager to share our work with you and we sincerely hope that you find
     * [Avatar Garden](#avatar-garden)
     * [The Avatar Show](#avatar-show)
     * [ABM](#abm)
+    * [CA World](#ca-world)
   * [The Sandbox Packs](#the-sandbox)
     * [TSB Megapack](#tsb-megapack)
     * [Babylon](#babylon)
@@ -266,6 +267,24 @@ This asset pack contains 65 different elements.
 [Link to the Unity Asset Store]()
 <br>
 [Check the diorama at Sketchfab](https://sketchfab.com/3d-models/abm-cc0-asset-pack-bc92b5dbda4548118280ddf6bb63ad29)
+<br>
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230515) 
+
+<a id="ca-world"></a>
+## CA World
+
+<a href="https://sketchfab.com/3d-models/ca-world-cc0-asset-pack-7dba1f1b8d414aa79257fc13a123b2c7" title="CA World">
+        <img align="right" width="50%" src="images/CAWorld_Cover.jpg"> 
+</a>
+
+The CryptoAvatars World Asset Pack contains numerous architectural and decorative elements typical of a mansion or museum. There are elegant tiled and parquet floors, sturdy columns, staircases and other decorative objects such as benches, statues, modern lighting and displays. It is a perfect mix of classical architecture and avant-garde objects.
+<br>
+This asset pack contains 65 different elements.
+<br><br>
+
+[Link to the Unity Asset Store]()
+<br>
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/ca-world-cc0-asset-pack-7dba1f1b8d414aa79257fc13a123b2c7)
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230515) 
 
