@@ -118,25 +118,59 @@ With an easy to modify topology, they can be imported into any 3D editing softwa
 <a id="asset-packs"></a>                      
 # Asset Packs
 
-<a id="medieval-fair"></a>
-## Medieval Fair Asset Pack
+<a id="abm"></a>
+## ABM
 
-<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1)" title="Medieval Fair">
-        <img align="right" width="50%" src="images/MedievalFair_Cover.jpg"> 
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230515" title="ABM">
+        <img align="right" width="50%" src="images/ABM_Cover.jpg"> 
 </a>
 
-Created during a short interval of time before Oktoberfest (the german fest), this celebration was Medieval Fair's original purpose. It has now been modified and adapted, and its assets can serve as the perfect building blocks for any kind of medieval festival.
+ABM or Aetherian Block Museum is a Museum that contains the story of the creation of Blockchain and Ethereum divided into different stages.  The different points in history are represented via NFTs together with a description of what happened in that moment. 
 <br>
-Bring the fun to any fair. This pack contains barrels, food booths, wooden structures, lots of beer, and every other asset you can think of that makes a party legendary.
-<br>
-This asset pack contains more than 35 game-ready assets.
-<br> <br>
+This asset pack contains 65 different elements.
+<br><br>
 
 [Link to the Unity Asset Store]()
 <br>
-[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/medieval-fun-fair-cc0-asset-pack-d46e293701f1467a961b3eddfa0792db)
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/abm-cc0-asset-pack-bc92b5dbda4548118280ddf6bb63ad29)
 <br>
-[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1)
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230515) 
+
+<a id="avatar-garden"></a>
+## Avatar Garden
+
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230426.1" title="Avatar Garden">
+        <img align="right" width="50%" src="images/AvatarGarden_Cover.jpg"> 
+</a>
+
+The VRChat space that houses every avatar we have made so far for the 100 Avatars series. This project embodies the open-source origin and philosophy of the company, and it was at its time the first step towards the creation of CryptoAvatars. Its characteristic artstyle reminisces the characteristic brush strokes of Gauguin.
+<br>
+ This asset pack is made up of 130 different assets, ideal for arranging bucolic landscapes.
+<br><br>
+
+[Link to the Unity Asset Store]()
+<br>
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
+<br>
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230426.1) 
+
+<a id="ca-world"></a>
+## CA World
+
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230518" title="CA World">
+        <img align="right" width="50%" src="images/CAWorld_Cover.jpg"> 
+</a>
+
+The CryptoAvatars World Asset Pack contains numerous architectural and decorative elements typical of a mansion or museum. There are elegant tiled and parquet floors, sturdy columns, staircases and other decorative objects such as benches, statues, modern lighting and displays. It is a perfect mix of classical architecture and avant-garde objects.
+<br>
+This asset pack contains 65 different elements.
+<br><br>
+
+[Link to the Unity Asset Store]()
+<br>
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/ca-world-cc0-asset-pack-7dba1f1b8d414aa79257fc13a123b2c7)
+<br>
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230518) 
 
 <a id="chromatic-chaos"></a>       
 ## Chromatic Chaos VHS Asset Pack
@@ -178,6 +212,45 @@ Fun fact, it is the models we use for testing Polygonal Mind applicants.
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230418.1) 
 
+<a id="medieval-fair"></a>
+## Medieval Fair Asset Pack
+
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1)" title="Medieval Fair">
+        <img align="right" width="50%" src="images/MedievalFair_Cover.jpg"> 
+</a>
+
+Created during a short interval of time before Oktoberfest (the german fest), this celebration was Medieval Fair's original purpose. It has now been modified and adapted, and its assets can serve as the perfect building blocks for any kind of medieval festival.
+<br>
+Bring the fun to any fair. This pack contains barrels, food booths, wooden structures, lots of beer, and every other asset you can think of that makes a party legendary.
+<br>
+This asset pack contains more than 35 game-ready assets.
+<br> <br>
+
+[Link to the Unity Asset Store]()
+<br>
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/medieval-fun-fair-cc0-asset-pack-d46e293701f1467a961b3eddfa0792db)
+<br>
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1)
+
+<a id="avatar-show"></a>
+## The Avatar Show
+
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230426.2" title="The Avatar Show">
+        <img align="right" width="50%" src="images/TheAvatarShow_Cover.jpg"> 
+</a>
+
+Created as a late-night VRChat show, The Avatar Show, hosted by Polygonal Mind, is a virtual space designed around interviews. Specially focused around avatar and virtual reality creators, it is now available for everybody to use.
+It includes decorative elements such as plants and carpets, as well as more functional elements such as seats, desks, and elegant armchairs.
+<br>
+This asset pack contains 50 different elements.
+<br><br>
+
+[Link to the Unity Asset Store]()
+<br>
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
+<br>
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230426.2) 
+
 <a id="tomb-chaser-1"></a>                  
 ## Tomb Chaser 1
 
@@ -195,7 +268,6 @@ If you are in need of sand, rocks, and ancient egyptian gods, this package is ma
 [Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230425.1) 
-
 
 <a id="tomb-chaser-2"></a>
 ## Tomb Chaser 2
@@ -233,79 +305,6 @@ The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the 
 <br>
 [Read the complete release notes here, and download the pack!]() 
 
-<a id="avatar-garden"></a>
-## Avatar Garden
-
-<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230426.1" title="Avatar Garden">
-        <img align="right" width="50%" src="images/AvatarGarden_Cover.jpg"> 
-</a>
-
-The VRChat space that houses every avatar we have made so far for the 100 Avatars series. This project embodies the open-source origin and philosophy of the company, and it was at its time the first step towards the creation of CryptoAvatars. Its characteristic artstyle reminisces the characteristic brush strokes of Gauguin.
-<br>
- This asset pack is made up of 130 different assets, ideal for arranging bucolic landscapes.
-<br><br>
-
-[Link to the Unity Asset Store]()
-<br>
-[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
-<br>
-[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230426.1) 
-
-<a id="avatar-show"></a>
-## The Avatar Show
-
-<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230426.2" title="The Avatar Show">
-        <img align="right" width="50%" src="images/TheAvatarShow_Cover.jpg"> 
-</a>
-
-Created as a late-night VRChat show, The Avatar Show, hosted by Polygonal Mind, is a virtual space designed around interviews. Specially focused around avatar and virtual reality creators, it is now available for everybody to use.
-It includes decorative elements such as plants and carpets, as well as more functional elements such as seats, desks, and elegant armchairs.
-<br>
-This asset pack contains 50 different elements.
-<br><br>
-
-[Link to the Unity Asset Store]()
-<br>
-[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
-<br>
-[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230426.2) 
-
-
-<a id="abm"></a>
-## ABM
-
-<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230515" title="ABM">
-        <img align="right" width="50%" src="images/ABM_Cover.jpg"> 
-</a>
-
-ABM or Aetherian Block Museum is a Museum that contains the story of the creation of Blockchain and Ethereum divided into different stages.  The different points in history are represented via NFTs together with a description of what happened in that moment. 
-<br>
-This asset pack contains 65 different elements.
-<br><br>
-
-[Link to the Unity Asset Store]()
-<br>
-[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/abm-cc0-asset-pack-bc92b5dbda4548118280ddf6bb63ad29)
-<br>
-[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230515) 
-
-<a id="ca-world"></a>
-## CA World
-
-<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230518" title="CA World">
-        <img align="right" width="50%" src="images/CAWorld_Cover.jpg"> 
-</a>
-
-The CryptoAvatars World Asset Pack contains numerous architectural and decorative elements typical of a mansion or museum. There are elegant tiled and parquet floors, sturdy columns, staircases and other decorative objects such as benches, statues, modern lighting and displays. It is a perfect mix of classical architecture and avant-garde objects.
-<br>
-This asset pack contains 65 different elements.
-<br><br>
-
-[Link to the Unity Asset Store]()
-<br>
-[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/ca-world-cc0-asset-pack-7dba1f1b8d414aa79257fc13a123b2c7)
-<br>
-[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230518) 
 
 <a id="the-sandbox"></a>  
 # The Sandbox Packs
