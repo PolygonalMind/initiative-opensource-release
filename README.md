@@ -73,6 +73,8 @@ The avatars adhere to the following themes:
 
 [Link to the original Round 1](https://www.100avatars.com/es/round-1)
 <br>
+[Link to the Unity Asset Store]()
+<br>
 [Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.1) 
@@ -93,6 +95,8 @@ This package includes the avatar version of our company logo, the Poligonati.
 
 [Link to the original Round 2](https://www.100avatars.com/es/round-2)
 <br>
+[Link to the Unity Asset Store]()
+<br>
 [Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r2-cc0-character-pack-80cb24ac52cb4e839930aaa12314f716)
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.1) 
@@ -111,6 +115,8 @@ These 60 creatures are textured, rigged, and ready to be included at any project
 With an easy to modify topology, they can be imported into any 3D editing software and freely modified.
 <br> <br>
 
+[Link to the Unity Asset Store]()
+<br>
 [Check the diorama at Sketchfab](https://sketchfab.com/3d-models/xyz-cc0-asset-pack-298598e881844644a5c037f380d9bcc1)
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230526) 
