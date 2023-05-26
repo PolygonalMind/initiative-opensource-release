@@ -28,6 +28,7 @@ Our team is eager to share our work with you and we sincerely hope that you find
   * [Character Packs](#character)
     * [100 Avatars R1](#100-avatars-r1)
     * [100 Avatars R2](#100-avatars-r2-character-pack)
+    * [XYZ](#xyz)
   * [Asset Packs](#asset)
     * [Medieval Fair](#medieval-fair)
     * [Chromatic Chaos VHS](#chromatic-chaos)
@@ -95,6 +96,24 @@ This package includes the avatar version of our company logo, the Poligonati.
 [Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r2-cc0-character-pack-80cb24ac52cb4e839930aaa12314f716)
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230412.1) 
+
+<a id="XYZ"></a>
+## XYZ
+ 
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230526" title="XYZ">
+        <img align="right" width="50%" src="images/XYZ_Cover.jpg"> 
+</a>
+
+XYZ figurines were designed for 3D printing with the new color printer. The project was delivered a couple of years ago in OBJ format, along with the textures. Now after this time we are free to release them with no extra charge or royalties to the original client.
+<br>
+These 60 creatures are textured, rigged, and ready to be included at any project.
+<br>
+With an easy to modify topology, they can be imported into any 3D editing software and freely modified.
+<br> <br>
+
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/xyz-cc0-asset-pack-298598e881844644a5c037f380d9bcc1)
+<br>
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230526) 
 
 <a id="asset-packs"></a>                      
 # Asset Packs
