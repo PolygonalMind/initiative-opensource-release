@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2217927301073438380
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1552749620393663510}
+  - component: {fileID: 2459988048836875187}
+  - component: {fileID: 416395297484187513}
+  m_Layer: 0
+  m_Name: 'Colony_Tower_Art '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1552749620393663510
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2217927301073438380}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2459988048836875187
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2217927301073438380}
+  m_Mesh: {fileID: -668759820868958166, guid: 3903d451ce7e3564db8c83c4a5c1dce2, type: 3}
+--- !u!23 &416395297484187513
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2217927301073438380}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 055c4f37681dda041b75ff82a70de5df, type: 2}
+  - {fileID: 2100000, guid: 27f5965f25ca51446a92c166dca9c85b, type: 2}
+  - {fileID: 2100000, guid: 82aed98c08a73984898fa87f7e00bee8, type: 2}
+  - {fileID: 2100000, guid: a5227a704859fe34eb5ba8ca5cab7169, type: 2}
+  - {fileID: 2100000, guid: 84017b66c60cbc941941c9691e85b839, type: 2}
+  - {fileID: 2100000, guid: 1c54ffae42a1d504399b0c3e6fd1807b, type: 2}
+  - {fileID: 2100000, guid: de4c6ddf30710824e97de0795cdca693, type: 2}
+  - {fileID: 2100000, guid: 4bace869e1ca1284c8b65387c50c9305, type: 2}
+  - {fileID: 2100000, guid: 416a13c40af760b48b6dcca35ce5a7d5, type: 2}
+  - {fileID: 2100000, guid: 4f52d910bfdb80143bc534093b3ab87a, type: 2}
+  - {fileID: 2100000, guid: dd62c9a2a857be941ad50115a3a02830, type: 2}
+  - {fileID: 2100000, guid: 382c99015525e174f933866302f59149, type: 2}
+  - {fileID: 2100000, guid: 47f0636a312831b488551134d8a59bb7, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
