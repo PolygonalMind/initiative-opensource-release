@@ -36,6 +36,7 @@ Our team is eager to share our work with you and we sincerely hope that you find
     * [Chromatic Chaos VHS](#chromatic-chaos)
     * [Medieval Fair](#medieval-fair)
     * [Momus Park](#momus-park)
+    * [South DCL](#south-dcl)
     * [The Avatar Show](#avatar-show)
     * [Tomb Chaser 1](#tomb-chaser-1)
     * [Tomb Chaser 2](#tomb-chaser-2)
@@ -237,6 +238,22 @@ This asset pack contains more than 35 game-ready assets.
 [Check the diorama at Sketchfab](https://sketchfab.com/3d-models/medieval-fun-fair-cc0-asset-pack-d46e293701f1467a961b3eddfa0792db)
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1)
+
+<a id="south-dcl"></a>
+## South DCL
+
+<a href=https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230614.1 title="South DCL">
+        <img align="right" width="50%" src="images/SouthDCL_Cover.jpg"> 
+</a>
+
+
+<br><br>
+
+[Link to the Unity Asset Store]()
+<br>
+Check the dioramas at Sketchfab: [Aero System](https://sketchfab.com/3d-models/s-dcl-aero-system-cc0-asset-pack-47f84dc5e7354e8588cbaa188e110512), [Transit System](https://sketchfab.com/3d-models/s-dcl-transit-system-cc0-asset-pack-ed1d095a966147e088d89afe17d9a134), and [Towers](https://sketchfab.com/3d-models/s-dcl-towers-cc0-asset-pack-2c6a82437b8b4f4cb5c6476159730a37)
+<br>
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230614.1) 
 
 <a id="avatar-show"></a>
 ## The Avatar Show
