@@ -246,6 +246,13 @@ This asset pack contains more than 35 game-ready assets.
         <img align="right" width="50%" src="images/SouthDCL_Cover.jpg"> 
 </a>
 
+The South DCL Asset Pack corresponds to objects we created to bring different transport stations to life. These stations are different from each other and are inspired by different concepts.
+<br>
+Transit System is inspired by retro-futurism and metallic textures.
+<br>
+Aero System is a kind of luminous animated forest.
+<br>
+Towers is an abandoned base camp with different spatial elements.
 
 <br><br>
 
