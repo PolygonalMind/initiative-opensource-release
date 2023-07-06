@@ -32,6 +32,7 @@ Our team is eager to share our work with you and we sincerely hope that you find
   * [Asset Packs](#asset)
     * [ABM](#abm)
     * [Avatar Garden](#avatar-garden)
+    * [Avatar Webcam](#avatar-webcam)
     * [CA World](#ca-world)
     * [Chromatic Chaos VHS](#chromatic-chaos)
     * [Medieval Fair](#medieval-fair)
@@ -160,6 +161,24 @@ The VRChat space that houses every avatar we have made so far for the 100 Avatar
 [Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230426.1) 
+
+<a id="avatar-webcam"></a>
+## Avatar Webcam
+
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230706.1" title="Avatar Webcam">
+        <img align="right" width="50%" src="images/AvatarWebcam_Cover.jpg"> 
+</a>
+
+The Avatar.Webcam Asset Pack contains numerous environments to create themed scenarios: retro-futuristic, natural garden, mystical, spaceship, animated forest, modern penthouse, recording studio and moon landing.
+<br>
+Create scenarios of numerous themes with the Avatar.Webcam Asset Pack. This is a compilation of objects from all the environments you can choose from in this app for Vtubing and videocalls. Make a modern penthouse or set up your recording studio, a spaceship or even a moon landing montage. You can also add a mystical or retro-futuristic touch to your creations. If you are more of a naturalist, select organic objects to design your garden or forest.
+<br><br>
+
+[Link to the Unity Asset Store]()
+<br>
+[Check the 10 diorama collection at Sketchfab](https://sketchfab.com/polygonalmind/collections/avatar-webcam-9de9dc1ce7bd46fcb25990b1e0409195)
+<br>
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230706.1) 
 
 <a id="ca-world"></a>
 ## CA World
