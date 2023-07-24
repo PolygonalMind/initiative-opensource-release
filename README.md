@@ -218,6 +218,26 @@ One of the first projects developed during 2023 is a collaboration with MoCA. Af
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230410.1) 
 
+<a id="medieval-fair"></a>
+## Medieval Fair Asset Pack
+
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1" title="MOMUS Pack">
+        <img align="right" width="50%" src="images/MedievalFair_Cover.jpg"> 
+</a>
+
+Created during a short interval of time before Oktoberfest (the german fest), this celebration was Medieval Fair's original purpose. It has now been modified and adapted, and its assets can serve as the perfect building blocks for any kind of medieval festival.
+<br>
+Bring the fun to any fair. This pack contains barrels, food booths, wooden structures, lots of beer, and every other asset you can think of that makes a party legendary.
+<br>
+This asset pack contains more than 35 game-ready assets.
+<br> <br>
+
+[Link to the Unity Asset Store]()
+<br>
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/medieval-fun-fair-cc0-asset-pack-d46e293701f1467a961b3eddfa0792db)
+<br>
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1)
+
 <a id="momus-park"></a>                       
 ## MOMUS Park Asset Pack
 
@@ -237,26 +257,6 @@ Fun fact, it is the models we use for testing Polygonal Mind applicants.
 [Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230418.1) 
-
-<a id="medieval-fair"></a>
-## Medieval Fair Asset Pack
-
-<a href=https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1) title="Medieval Fair">
-        <img align="right" width="50%" src="images/MedievalFair_Cover.jpg"> 
-</a>
-
-Created during a short interval of time before Oktoberfest (the german fest), this celebration was Medieval Fair's original purpose. It has now been modified and adapted, and its assets can serve as the perfect building blocks for any kind of medieval festival.
-<br>
-Bring the fun to any fair. This pack contains barrels, food booths, wooden structures, lots of beer, and every other asset you can think of that makes a party legendary.
-<br>
-This asset pack contains more than 35 game-ready assets.
-<br> <br>
-
-[Link to the Unity Asset Store]()
-<br>
-[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/medieval-fun-fair-cc0-asset-pack-d46e293701f1467a961b3eddfa0792db)
-<br>
-[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1)
 
 <a id="south-dcl"></a>
 ## South DCL
