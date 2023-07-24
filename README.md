@@ -241,7 +241,7 @@ Fun fact, it is the models we use for testing Polygonal Mind applicants.
 <a id="medieval-fair"></a>
 ## Medieval Fair Asset Pack
 
-<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1)" title="Medieval Fair">
+<a href=https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230331.1) title="Medieval Fair">
         <img align="right" width="50%" src="images/MedievalFair_Cover.jpg"> 
 </a>
 
