@@ -35,6 +35,7 @@ Our team is eager to share our work with you and we sincerely hope that you find
     * [Avatar Webcam](#avatar-webcam)
     * [CA World](#ca-world)
     * [Chromatic Chaos VHS](#chromatic-chaos)
+    * [Crystal Crossroads](#crystal-crossroads)
     * [Medieval Fair](#medieval-fair)
     * [Momus Park](#momus-park)
     * [South DCL](#south-dcl)
@@ -217,6 +218,23 @@ One of the first projects developed during 2023 is a collaboration with MoCA. Af
 [Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230410.1) 
+
+<a id="crystal-crossroads"></a>       
+## Crsytal Crossroads Asset Pack
+  
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230727.1" title="Crystal Crossroads">
+        <img align="right" width="50%" src="images/CrystalCrossroads_Cover.jpg"> 
+</a>
+
+Discover in the Crystal Crossroads Asset Pack a dreamlike space where the surrealism of illustrator Moebius converges with large crystals and antique artifacts. Desert ruins unfold before us, inspired by the surrealism of Moebius. Grayish tiles, strong columns, plants falling down the facade and ancient pots characterize the spaces, without forgetting the large green crystals that add a touch of mysticism.
+<br>
+ This package is for you if you're in need of comic-style assets, with sharp edges and pastel colours.
+
+[Link to the Unity Asset Store]()
+<br>
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/crystal-crossroads-cc0-asset-pack-28f288e85f21474382070d9bd666bb16)
+<br>
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230727.1) 
 
 <a id="medieval-fair"></a>
 ## Medieval Fair Asset Pack
