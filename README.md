@@ -36,6 +36,7 @@ Our team is eager to share our work with you and we sincerely hope that you find
     * [CA World](#ca-world)
     * [Chromatic Chaos VHS](#chromatic-chaos)
     * [Crystal Crossroads](#crystal-crossroads)
+    * [LowPolyStore](#lowp)
     * [Medieval Fair](#medieval-fair)
     * [Momus Park](#momus-park)
     * [South DCL](#south-dcl)
@@ -220,7 +221,7 @@ One of the first projects developed during 2023 is a collaboration with MoCA. Af
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230410.1) 
 
 <a id="crystal-crossroads"></a>       
-## Crsytal Crossroads Asset Pack
+## Crystal Crossroads Asset Pack
   
 <a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230727.1" title="Crystal Crossroads">
         <img align="right" width="50%" src="images/CrystalCrossroads_Cover.jpg"> 
@@ -235,6 +236,24 @@ Discover in the Crystal Crossroads Asset Pack a dreamlike space where the surrea
 [Check the diorama at Sketchfab](https://sketchfab.com/3d-models/crystal-crossroads-cc0-asset-pack-28f288e85f21474382070d9bd666bb16)
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230727.1) 
+
+<a id="lowp"></a>       
+## LowPolyStore Asset Pack
+  
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230802.1" title="LowPolyStore">
+        <img align="right" width="50%" src="images/LOWP_Cover.jpg"> 
+</a>
+
+The LowPoly Store Package is comprised of the 3 transformations our fantastic store has gone through: Trash Polka, Christmas, and Lunar Year.
+<br>
+ The LowPoly Store is Polygonal Mind’s own store within the metaverse. As every well-regarded store, we give it seasonal makeovers to appeal to our customers. This pack includes the Trash Polka, Christmas, and Lunar year event makeovers. It includes structural assets for the three variations.
+
+[Link to the Unity Asset Store]()
+<br>
+[Check the diorama collection at Sketchfab](https://sketchfab.com/polygonalmind/collections/lowpolystore-9c6b984476c047c88c17f1c7fb743e4a)
+<br>
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230802.1) 
+
 
 <a id="medieval-fair"></a>
 ## Medieval Fair Asset Pack
