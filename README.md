@@ -35,6 +35,7 @@ Our team is eager to share our work with you and we sincerely hope that you find
     * [Avatar Webcam](#avatar-webcam)
     * [CA World](#ca-world)
     * [Chromatic Chaos VHS](#chromatic-chaos)
+    * [Cryptoavatars Retro Booth](#ca-booth)
     * [Crystal Crossroads](#crystal-crossroads)
     * [LowPolyStore](#lowp)
     * [Medieval Fair](#medieval-fair)
@@ -219,6 +220,24 @@ One of the first projects developed during 2023 is a collaboration with MoCA. Af
 [Check the diorama at Sketchfab](https://sketchfab.com/3d-models/100-avatars-r1-cc0-character-pack-c96f3ac9e8ee4bc192809e4a64bddfc2)
 <br>
 [Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230410.1) 
+
+<a id="ca-booth"></a>       
+## Cryptoavatars Retro Booth Asset Pack
+  
+<a href="https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230810.1" title="Cryptoavatars Retro Booth">
+        <img align="right" width="50%" src="images/Vket_Cover.jpg"> 
+</a>
+
+Dig in 80s vibes with this space built for Virtual Market 6 back in 2020 and now available for everyone to use, modify or recreate.
+<br>
+Step into a meticulously designed virtual space that originated as a booth for Virtual Market 6 in 2020, offering a vivid taste of 80s nostalgia. This unique environment combines Japanese elements from the avatars market, featuring iconic banners and a simulated Japanese street ambiance. What sets it apart is the recreation within an antique computer, authentically capturing the essence of the 80s. Now open for everyone to enjoy, modify, or personalize, it's a captivating blend of eras and cultures, inviting you to relive the 80s while making it your own.
+<br><br>
+
+[Link to the Unity Asset Store]()
+<br>
+[Check the diorama at Sketchfab](https://sketchfab.com/3d-models/cryptoavatars-retro-booth-cc0-asset-pack-8122597fb7734f8894185b46c416b1af)
+<br>
+[Read the complete release notes here, and download the pack!](https://github.com/PolygonalMind/initiative-opensource-release/releases/tag/230810.1) 
 
 <a id="crystal-crossroads"></a>       
 ## Crystal Crossroads Asset Pack
